@@ -1,0 +1,53 @@
+ID's Custom Weapon Solaris (Tysm Bengio)
+
+
+Builder_WID_YEETknock_UR
+Flight-Knock Pistol (Hold in midair to prevent fall damage after shooting)
+
+WID_Assault_AutoDrum_Athena_UR_Boss_Ore_T03
+Midas' Drum Gun (Mythic)
+
+WID_Assault_Halloween_Athena_X_Ore_T03
+Grave Digger (Zero Point (Custom Rarity))
+
+WID_Boss_ClydeGrotto_MG
+RG' Minigun (Mythic)
+
+WID_ExplosiveBow_Athena_X
+Boomhook Bow (Zero Point (Custom Rarity)) (Broken, no fall damage remover)
+
+WID_Frostbite
+Frosbite (Zero Point (Custom Rarity))
+
+WID_Galaxy_LMG_Athena_X_Ore_T03
+Galaxy Minigun (Zero Point (Custom Rarity))
+
+WID_PastaRipper_UR
+Overclocked Pulse Rifle (Mythic)
+
+WID_Pistol_Chrono_Athena_SR
+Mammoth Pistol (Legendary)
+
+WID_Shotgun_Break_Cerberus_Athena_UR_Boss
+Cerberus' Gatekeeper Shotgun (Mythic)
+
+WID_Shotgun_Break_Cerberus_Athena_UR_MAG
+Silver Gatekeeper Shotgun (Zero Point (Custom Rarity))
+
+WID_Shotgun_MusterPump_Athena_SR
+Thunder Shotgun (Legendary)
+
+WID_Shotgun_MusterPump_Athena_UR
+Thunder Shotgun (Mythic)
+
+WID_Shotgun_Winter_Athena_SR_Ore_T03
+Popshot (Zero Point (Custom Rarity))
+
+WID_SMG_MusterQuick_Athena_SR
+Twin Mag SMG (Legendary)
+
+WID_SMG_MusterQuick_Athena_UR
+Twin Mag SMG (Mythic)
+
+WID_StormKingMelee_UR
+Storm King's Fist (Mythic)
